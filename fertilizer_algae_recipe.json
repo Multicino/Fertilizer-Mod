@@ -1,0 +1,26 @@
+{
+  "guid": "FertileSoilMod",
+  "name": "Fertilizer - Algae",
+  "icon": "",
+  "displayName": "Fertilizer (Algae)",
+  "description": "Create fertilizer using algae and clay",
+  "productionTime": 90,
+  "ingredientsIds": [
+    "[Food Raw] Algae",
+    "[Mat Raw] Clay"
+  ],
+  "ingredientsAmounts": [
+    2,
+    1
+  ],
+  "productsIds": [
+    "[Other] Fertilizer"
+  ],
+  "productsAmounts": [
+    1
+  ],
+  "buildingTypes": [
+    "Brickyard"
+  ],
+  "grade": 0
+}

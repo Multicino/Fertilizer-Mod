@@ -1,0 +1,26 @@
+{
+  "guid": "FertileSoilMod",
+  "name": "Fertilizer - Vegetables",
+  "icon": "",
+  "displayName": "Fertilizer (Vegetables)",
+  "description": "Create fertilizer using vegetables and clay",
+  "productionTime": 90,
+  "ingredientsIds": [
+    "[Food Raw] Vegetables",
+    "[Mat Raw] Clay"
+  ],
+  "ingredientsAmounts": [
+    2,
+    1
+  ],
+  "productsIds": [
+    "[Other] Fertilizer"
+  ],
+  "productsAmounts": [
+    1
+  ],
+  "buildingTypes": [
+    "Brickyard"
+  ],
+  "grade": 0
+}

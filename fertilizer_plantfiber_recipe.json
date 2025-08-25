@@ -1,0 +1,26 @@
+{
+  "guid": "FertileSoilMod",
+  "name": "Fertilizer - Plant Fiber",
+  "icon": "",
+  "displayName": "Fertilizer (Plant Fiber)",
+  "description": "Create fertilizer using plant fiber and clay",
+  "productionTime": 90,
+  "ingredientsIds": [
+    "[Mat Raw] Plant Fiber",
+    "[Mat Raw] Clay"
+  ],
+  "ingredientsAmounts": [
+    2,
+    1
+  ],
+  "productsIds": [
+    "[Other] Fertilizer"
+  ],
+  "productsAmounts": [
+    1
+  ],
+  "buildingTypes": [
+    "Brickyard"
+  ],
+  "grade": 0
+}

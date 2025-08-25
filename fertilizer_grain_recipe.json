@@ -1,0 +1,26 @@
+{
+  "guid": "FertileSoilMod",
+  "name": "Fertilizer - Grain",
+  "icon": "",
+  "displayName": "Fertilizer (Grain)",
+  "description": "Create fertilizer using grain and clay",
+  "productionTime": 90,
+  "ingredientsIds": [
+    "[Food Raw] Grain",
+    "[Mat Raw] Clay"
+  ],
+  "ingredientsAmounts": [
+    2,
+    1
+  ],
+  "productsIds": [
+    "[Other] Fertilizer"
+  ],
+  "productsAmounts": [
+    1
+  ],
+  "buildingTypes": [
+    "Brickyard"
+  ],
+  "grade": 0
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fertilizer_Production_Mod",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Adds multiple recipes to create fertilizer in the Brickyard using various organic materials and clay.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "ATS_API_Devs-API-3.6.0",
+    "ATS_API_Devs-JSONLoader-0.7.1"
+  ]
+}

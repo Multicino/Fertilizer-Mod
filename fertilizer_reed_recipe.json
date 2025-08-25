@@ -1,0 +1,26 @@
+{
+  "guid": "FertileSoilMod",
+  "name": "Fertilizer - Reed",
+  "icon": "",
+  "displayName": "Fertilizer (Reed)",
+  "description": "Create fertilizer using reed and clay",
+  "productionTime": 90,
+  "ingredientsIds": [
+    "[Mat Raw] Reed",
+    "[Mat Raw] Clay"
+  ],
+  "ingredientsAmounts": [
+    2,
+    1
+  ],
+  "productsIds": [
+    "[Other] Fertilizer"
+  ],
+  "productsAmounts": [
+    1
+  ],
+  "buildingTypes": [
+    "Brickyard"
+  ],
+  "grade": 0
+}

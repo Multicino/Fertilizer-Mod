@@ -1,0 +1,26 @@
+{
+  "guid": "FertileSoilMod",
+  "name": "Fertilizer - Herbs",
+  "icon": "",
+  "displayName": "Fertilizer (Herbs)",
+  "description": "Create fertilizer using herbs and clay",
+  "productionTime": 90,
+  "ingredientsIds": [
+    "[Food Raw] Herbs",
+    "[Mat Raw] Clay"
+  ],
+  "ingredientsAmounts": [
+    2,
+    1
+  ],
+  "productsIds": [
+    "[Other] Fertilizer"
+  ],
+  "productsAmounts": [
+    1
+  ],
+  "buildingTypes": [
+    "Brickyard"
+  ],
+  "grade": 0
+}
